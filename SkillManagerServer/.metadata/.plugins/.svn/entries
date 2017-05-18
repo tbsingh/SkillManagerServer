@@ -1,0 +1,103 @@
+10
+
+dir
+426
+file:///C:/Users/tssa/Dropbox/svn/SkillManagerApp/.metadata/.plugins
+file:///C:/Users/tssa/Dropbox/svn
+
+
+
+2015-05-23T19:51:41.121000Z
+426
+tssa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+be13edf4-3901-0010-90ce-9bfd157e2a9a
+
+com.collabnet.subversion.merge
+dir
+
+com.ibm.team.feed.core
+dir
+
+com.ibm.team.filesystem.rcp.core
+dir
+
+com.ibm.team.foundation.rcp.core
+dir
+
+com.ibm.team.fulltext.client
+dir
+
+com.ibm.team.workitem.rcp.ui
+dir
+
+com.objectaid.uml
+dir
+
+org.eclipse.cdt.core
+dir
+
+org.eclipse.cdt.make.core
+dir
+
+org.eclipse.core.resources
+dir
+
+org.eclipse.core.runtime
+dir
+
+org.eclipse.debug.core
+dir
+
+org.eclipse.debug.ui
+dir
+
+org.eclipse.e4.workbench
+dir
+
+org.eclipse.jdt.core
+dir
+
+org.eclipse.jdt.ui
+dir
+
+org.eclipse.m2e.logback.configuration
+dir
+
+org.eclipse.mylyn.bugzilla.core
+dir
+
+org.eclipse.mylyn.context.core
+dir
+
+org.eclipse.mylyn.tasks.ui
+dir
+
+org.eclipse.team.cvs.core
+dir
+
+org.eclipse.ui.ide
+dir
+
+org.eclipse.ui.intro
+dir
+
+org.eclipse.ui.workbench
+dir
+
+org.eclipse.wb.discovery.core
+dir
+

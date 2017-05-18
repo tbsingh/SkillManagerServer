@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+	<import resource="classpath:com/tssa/smp/domain/repo/conf/repository.xml" />
+	<bean name="questionService" parent="baseTransactionProxy">
+		<property name="target" ref="questionServiceImpl"/>
+	</bean>
+	<bean id="questionServiceImpl" class="com.tssa.smp.domain.service.QuestionServiceImpl">
+    	<property name="questionRepository" ref="questionRepository"/>
+    </bean>
+</beans>

@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Skill Management Platform</title>
+</head>
+<body>
+	<h2>Skill Management Platform RESTful URI</h2>
+	<ul>
+		<li>Get questions list - /questions</li>
+		<li>Get question category list- /categories</li>
+		<li>Get subject list - /subjects</li>
+		<li>Get a category information by id - /categories/ids/{id}</li>
+		<li>Get all Question IDs for a subject -
+			/subjects/{qtype}/questions/ids</li>
+		<li>Get a question information by id -
+			/subjects/{qtype}/questions/ids/{id}</li>
+	</ul>
+	
+	<h4>The {name} can be any one of java, cpp, db, os, design</h4>
+</body>
+</html>
